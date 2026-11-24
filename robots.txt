@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://hamadahamadaelmondy-ctrl.github.io/sitemap.xml
